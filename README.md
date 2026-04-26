@@ -1,5 +1,9 @@
 # secure-ecommerce-website
 Secure e-commerce web application built with WordPress and WooCommerce, featuring user authentication, payment integration, and security enhancements including firewall and 2FA.
+## Live Demo
+The project is hosted on InfinityFree.
+URL: https://digitalartandprintstore.ct.ws
+
 ## Objectives
 - Build a functional e-commerce platform
 - Implement user authentication
